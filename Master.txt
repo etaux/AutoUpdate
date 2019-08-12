@@ -1,3 +1,3 @@
-<Version: 1.10>
+<Version: 1.20>
 /data/Items.json https://raw.githubusercontent.com/etaux/AutoUpdate/master/Items.json
 <End of Version>
