@@ -1,4 +1,4 @@
-<Version: 1.33>
+<Version: 1.34>
  /data/Actors.json https://raw.githubusercontent.com/etaux/AutoUpdate/master/Actors.json
  /data/Enemies.json https://raw.githubusercontent.com/etaux/AutoUpdate/master/Enemies.json
  /data/Items.json https://raw.githubusercontent.com/etaux/AutoUpdate/master/Items.json
