@@ -1,4 +1,4 @@
-<Version: 1.34>
+<Version: 1.35>
  /data/Actors.json https://raw.githubusercontent.com/etaux/AutoUpdate/master/Actors.json
  /data/Enemies.json https://raw.githubusercontent.com/etaux/AutoUpdate/master/Enemies.json
  /data/Items.json https://raw.githubusercontent.com/etaux/AutoUpdate/master/Items.json
@@ -13,15 +13,8 @@
  /data/Map009.json https://raw.githubusercontent.com/etaux/AutoUpdate/master/Map009.json
  /data/Map010.json https://raw.githubusercontent.com/etaux/AutoUpdate/master/Map010.json
  /data/Map011.json https://raw.githubusercontent.com/etaux/AutoUpdate/master/Map011.json
- /data/Map012.json https://raw.githubusercontent.com/etaux/AutoUpdate/master/Map012.json
  /data/Map013.json https://raw.githubusercontent.com/etaux/AutoUpdate/master/Map013.json
- /data/Map014.json https://raw.githubusercontent.com/etaux/AutoUpdate/master/Map014.json
- /data/Map015.json https://raw.githubusercontent.com/etaux/AutoUpdate/master/Map015.json
- /data/Map017.json https://raw.githubusercontent.com/etaux/AutoUpdate/master/Map017.json
- /data/Map019.json https://raw.githubusercontent.com/etaux/AutoUpdate/master/Map019.json
- /data/Map020.json https://raw.githubusercontent.com/etaux/AutoUpdate/master/Map020.json
  /data/Map022.json https://raw.githubusercontent.com/etaux/AutoUpdate/master/Map022.json
- /data/Map024.json https://raw.githubusercontent.com/etaux/AutoUpdate/master/Map024.json
  /data/System.json https://raw.githubusercontent.com/etaux/AutoUpdate/master/System.json
  /data/Weapons.json https://raw.githubusercontent.com/etaux/AutoUpdate/master/Weapons.json
 <End of Version>
