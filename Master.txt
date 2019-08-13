@@ -1,4 +1,5 @@
-<Version: 1.25>
-/data/Map009.json https://raw.githubusercontent.com/etaux/AutoUpdate/master/Map009.json
+<Version: 1.26>
+/data/Map001.json https://raw.githubusercontent.com/etaux/AutoUpdate/master/Map001.json
 /data/Actors.json https://raw.githubusercontent.com/etaux/AutoUpdate/master/Actors.json
+/data/Weapons.json https://raw.githubusercontent.com/etaux/AutoUpdate/master/Weapons.json
 <End of Version>
