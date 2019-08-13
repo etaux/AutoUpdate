@@ -1,9 +1,3 @@
 <Version: 1.22>
-/data/Map002.json https://raw.githubusercontent.com/etaux/AutoUpdate/master/Map002.json
-/data/Map006.json https://raw.githubusercontent.com/etaux/AutoUpdate/master/Map006.json
 /data/Map007.json https://raw.githubusercontent.com/etaux/AutoUpdate/master/Map007.json
-/data/Map008.json https://raw.githubusercontent.com/etaux/AutoUpdate/master/Map008.json
-/data/Map009.json https://raw.githubusercontent.com/etaux/AutoUpdate/master/Map009.json
-/data/Map010.json https://raw.githubusercontent.com/etaux/AutoUpdate/master/Map010.json
-/data/Map011.json https://raw.githubusercontent.com/etaux/AutoUpdate/master/Map011.json
 <End of Version>
