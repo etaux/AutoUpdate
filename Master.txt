@@ -1,3 +1,3 @@
-<Version: 1.28>
-/data/Actors.json https://raw.githubusercontent.com/etaux/AutoUpdate/master/Actors.json
+<Version: 1.29>
+/data/Map005.json https://raw.githubusercontent.com/etaux/AutoUpdate/master/Map005.json
 <End of Version>
