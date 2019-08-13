@@ -1,10 +1,10 @@
-<Version: 1.31>
+<Version: 1.32>
  /data/Actors.json https://raw.githubusercontent.com/etaux/AutoUpdate/master/Actors.json
  /data/Enemies.json https://raw.githubusercontent.com/etaux/AutoUpdate/master/Enemies.json
  /data/Items.json https://raw.githubusercontent.com/etaux/AutoUpdate/master/Items.json
  /data/Map001.json https://raw.githubusercontent.com/etaux/AutoUpdate/master/Map001.json
  /data/Map002.json https://raw.githubusercontent.com/etaux/AutoUpdate/master/Map002.json
- /data/Map003.json https://raw.githubusercontent.com/etaux/AutoUpdate/master/Map002.json
+ /data/Map003.json https://raw.githubusercontent.com/etaux/AutoUpdate/master/Map003.json
  /data/Map004.json https://raw.githubusercontent.com/etaux/AutoUpdate/master/Map004.json
  /data/Map005.json https://raw.githubusercontent.com/etaux/AutoUpdate/master/Map005.json
  /data/Map006.json https://raw.githubusercontent.com/etaux/AutoUpdate/master/Map006.json
