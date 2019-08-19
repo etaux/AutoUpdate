@@ -1,14 +1,3 @@
 <Version: 1.36>
 /data/Actors.json https://raw.githubusercontent.com/etaux/AutoUpdate/master/Actors.json
-/data/Enemies.json https://raw.githubusercontent.com/etaux/AutoUpdate/master/Enemies.json
-/data/Items.json https://raw.githubusercontent.com/etaux/AutoUpdate/master/Items.json
-/data/Map001.json https://raw.githubusercontent.com/etaux/AutoUpdate/master/Map001.json
-/data/Map002.json https://raw.githubusercontent.com/etaux/AutoUpdate/master/Map002.json
-/data/Map005.json https://raw.githubusercontent.com/etaux/AutoUpdate/master/Map005.json
-/data/Map007.json https://raw.githubusercontent.com/etaux/AutoUpdate/master/Map007.json
-/data/Map009.json https://raw.githubusercontent.com/etaux/AutoUpdate/master/Map009.json
-/data/Map011.json https://raw.githubusercontent.com/etaux/AutoUpdate/master/Map011.json
-/data/Map013.json https://raw.githubusercontent.com/etaux/AutoUpdate/master/Map013.json
-/data/System.json https://raw.githubusercontent.com/etaux/AutoUpdate/master/System.json
-/data/Weapons.json https://raw.githubusercontent.com/etaux/AutoUpdate/master/Weapons.json
 <End of Version>
