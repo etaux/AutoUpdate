@@ -1,3 +1,4 @@
 <Version: 1.37>
 /data/Map011.json https://raw.githubusercontent.com/etaux/AutoUpdate/master/Map011.json
+/data/Map011.json https://raw.githubusercontent.com/etaux/AutoUpdate/master/Map008.json
 <End of Version>
